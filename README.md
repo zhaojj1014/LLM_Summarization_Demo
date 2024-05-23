@@ -1,2 +1,3 @@
-# LLM_Summarization_Demo
-demo of LLM summarization task
+# LLM Summarization Demo
+Demo of LLM summarization task
+
